@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lzrant
-- 👀 I’m interested in ... In computer science, I am currently going into my first year of college at temple university
-- 🌱 I’m currently learning ...Java and have background knowledege in python
-- 💞️ I’m looking to collaborate on ... Python Projects
+- 👀 I’m interested in ... In computer science, I am currently a Sophmore at temple university
+- 🌱 I’m currently learning ... AWS and other cloud infrastrucutres, along with key data structures. 
+- 💞️ I’m looking to collaborate on ... ANY projects
 - 📫 How to reach me ...antlzr10@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...
